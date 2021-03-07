@@ -49,7 +49,7 @@
    
 <body>
     <!-- NAVIGATION -->
-    <nav class="navigation-main" style="border-bottom: 3px solid #eabd1a;">
+    <nav class="navigation-main row" style="border-bottom: 3px solid #eabd1a;">
         <div class="container-fluid">
             <div class="navbar-header">
                 
