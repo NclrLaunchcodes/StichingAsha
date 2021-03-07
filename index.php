@@ -66,6 +66,7 @@
 	                <li><a href="#agenda"><strong>Agenda</strong></a></li>
                     <li><a href="#clients"><strong>Partners</strong></a></li>
                     <li><a href="#foto"><strong>Foto's</strong></a></li>
+                    
                     <li><a href="#contact"><strong>Contact</strong></a></li>
                 </ul>
             </div>
