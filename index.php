@@ -24,7 +24,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/plugins.css">
     <script defer type="text/javascript" src="https://stackend.com/launch.js"></script>
     <link rel="stylesheet" type="text/css" href="assets/css/main.css">
-    <link rel="stylesheet"  href="style.css" media="screen"/>
+    <link rel="stylesheet"  href="./css/style.css" media="screen"/>
 
 </head>
     
