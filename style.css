@@ -1,0 +1,108 @@
+a:hover {
+    color: #eabd1a !important;
+}
+.navigation-main ul li.current a {
+color: #eabd1a;
+    
+}
+* {box-sizing:border-box}
+
+.nav {
+    width: 120%;
+    float: right;
+}
+
+.stackend .slide1 {
+background-image: url(img/radj1.jpg);
+
+padding:50px;
+font-size:0;
+height:30vw;
+width:100%;
+background-size:cover;
+background-repeat:no-repeat;
+background-position:right top;
+}
+
+.stackend .slide2 {
+background-image: url(img/carousel2.0.jfif);
+
+padding:50px;
+font-size:0;
+height:30vw;
+width:100%;
+background-size:cover;
+background-repeat:no-repeat;
+background-position:right top;
+}
+
+.wrapper {
+width: 800px;
+margin: 0 auto;
+}
+
+
+.alert {
+padding: 50px;
+background-color: #f44336;
+color: white;
+width: 100%;
+position: right;
+margin-top: 100px;
+
+}
+
+.closebtn {
+margin-left: 15px;
+color: white;
+font-weight: bold;
+float: right;
+font-size: 30px;
+line-height: 30px;
+cursor: pointer;
+transition: 0.3s;
+}
+
+.closebtn:hover {
+color: black;
+}
+   
+.alert1 {
+padding: 50px;
+background-color: #0000FF;
+color: #eabd1a;
+width: 100% ;
+position: left ;
+top: 50px;
+margin-top: 100px;
+
+}
+
+  /*jssor slider loading skin spin css*/
+  .jssorl-009-spin img {
+    animation-name: jssorl-009-spin;
+    animation-duration: 1.6s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes jssorl-009-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+/*jssor slider bullet skin 057 css*/
+.jssorb057 .i {position:absolute;cursor:pointer;}
+.jssorb057 .i .b {fill:none;stroke:#fff;stroke-width:2000;stroke-miterlimit:10;stroke-opacity:0.4;}
+.jssorb057 .i:hover .b {stroke-opacity:.7;}
+.jssorb057 .iav .b {stroke-opacity: 1;}
+.jssorb057 .i.idn {opacity:.3;}
+
+/*jssor slider arrow skin 073 css*/
+.jssora073 {display:block;position:absolute;cursor:pointer;}
+.jssora073 .a {fill:#ddd;fill-opacity:.7;stroke:#000;stroke-width:160;stroke-miterlimit:10;stroke-opacity:.7;}
+.jssora073:hover {opacity:.8;}
+.jssora073.jssora073dn {opacity:.4;}
+.jssora073.jssora073ds {opacity:.3;pointer-events:none;}
+
+
